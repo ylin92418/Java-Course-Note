@@ -41,7 +41,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.DatesAndCalender">
+  <component name="RunManager" selected="Application.RegExTester">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -56,6 +56,14 @@
     </configuration>
     <configuration name="PhoneExceptionTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptionExample.PhoneExceptionTester" />
+      <module name="lesson4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegExTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regExExample.RegExTester" />
       <module name="lesson4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -85,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegExTester" />
         <item itemvalue="Application.DatesAndCalender" />
         <item itemvalue="Application.UserInputTester" />
         <item itemvalue="Application.PhoneExceptionTester" />
