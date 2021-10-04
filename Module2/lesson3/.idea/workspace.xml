@@ -42,13 +42,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_15_JavaObjectSerializationExercise" />
       <recent name="$PROJECT_DIR$/src/_11_PreventingResourceLeaks" />
       <recent name="$PROJECT_DIR$/src/_08_Excercise_1" />
       <recent name="$PROJECT_DIR$/src/_04_inputAndOupputStreams" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._08_Excercise_1.MakeShards">
+  <component name="RunManager" selected="Application._15_JavaObjectSerializationExercise.Main">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -76,6 +77,12 @@
       <option name="MAIN_CLASS_NAME" value="_08_Excercise_1.MakeShards" />
       <module name="lesson3" />
       <option name="PROGRAM_PARAMETERS" value="unsorted.txt shards/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_15_JavaObjectSerializationExercise.Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="_15_JavaObjectSerializationExercise.Main" />
+      <module name="lesson3" />
+      <option name="PROGRAM_PARAMETERS" value="client.bin" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
