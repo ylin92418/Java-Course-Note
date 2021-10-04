@@ -35,21 +35,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_20_Jackson" />
       <recent name="$PROJECT_DIR$/src/_15_JavaObjectSerializationExercise" />
       <recent name="$PROJECT_DIR$/src/_11_PreventingResourceLeaks" />
       <recent name="$PROJECT_DIR$/src/_08_Excercise_1" />
       <recent name="$PROJECT_DIR$/src/_04_inputAndOupputStreams" />
-      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._15_JavaObjectSerializationExercise.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -64,6 +64,13 @@
       <option name="MAIN_CLASS_NAME" value="_04_inputAndOupputStreams.InputAndOutputs" />
       <module name="lesson3" />
       <option name="PROGRAM_PARAMETERS" value="./test.txt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_20_Jackson.home.Main" />
+      <module name="lesson3" />
+      <option name="PROGRAM_PARAMETERS" value="client.json" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -98,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Encode" />
         <item itemvalue="Application.InputAndOutputs" />
         <item itemvalue="Application.PathDemo" />
