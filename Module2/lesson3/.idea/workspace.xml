@@ -42,37 +42,44 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_08_Excercise_1" />
       <recent name="$PROJECT_DIR$/src/_04_inputAndOupputStreams" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InputAndOutputs">
+  <component name="RunManager" selected="Application._08_Excercise_1.MakeShards">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Encode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_Encodings.Encode" />
+      <module name="lesson3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
     <configuration name="InputAndOutputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_inputAndOupputStreams.InputAndOutputs" />
       <module name="lesson3" />
       <option name="PROGRAM_PARAMETERS" value="./test.txt" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="PathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_03_path.PathDemo" />
       <module name="lesson3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
+    </configuration>
+    <configuration name="_08_Excercise_1.MakeShards" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="_08_Excercise_1.MakeShards" />
+      <module name="lesson3" />
+      <option name="PROGRAM_PARAMETERS" value="unsorted.txt shards/" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -83,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Encode" />
         <item itemvalue="Application.InputAndOutputs" />
         <item itemvalue="Application.PathDemo" />
       </list>
