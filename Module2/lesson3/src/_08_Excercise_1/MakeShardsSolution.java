@@ -25,7 +25,7 @@ public class MakeShardsSolution {
             System.out.println(e.getLocalizedMessage());
         }
 
-
+        // use try resources so that we won't to explicitly take care of closing writers
         try (BufferedReader reader = Files.newBufferedReader(input, StandardCharsets.UTF_8)) {
             int shardNum = 0;
             String word = reader.readLine();
@@ -41,8 +41,6 @@ public class MakeShardsSolution {
                     for (int i = 0; i < words.size(); i++) {
                         writer.write(words.get(i) + "\n");
                     }
-                    writer.flush();
-                    writer.close();
                 }
 
                 shardNum++;
