@@ -1,4 +1,4 @@
-//package _08_Excercise_1;
+package _08_Excercise_1;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
