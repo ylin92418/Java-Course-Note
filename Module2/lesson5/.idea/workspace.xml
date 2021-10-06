@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e3f19e9-aa6a-49c7-97cc-ba6ac8c0d711" name="Default Changelist" comment="" />
+    <list default="true" id="08bf7c77-6f61-46db-abea-e36003975f94" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -21,7 +22,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1z4jKiM2rIyYdJGHDtEGtpAZkQ7" />
+  <component name="ProjectId" id="1z7XFABOhEcuQgpzPx1XrY4xL1h" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -35,51 +36,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/_18_DependencyInjectionExercise" />
-      <recent name="$PROJECT_DIR$/src/_14_AdapterPatternExcercise" />
-      <recent name="$PROJECT_DIR$/src/_07_BuilderExercise" />
+      <recent name="$PROJECT_DIR$/src/_05_DefineCustomAnnotation" />
+      <recent name="$PROJECT_DIR$/src/_08_ReflectionAPIExercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExpirationCheckerTest">
+  <component name="RunManager" selected="Application.TestRunner">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="Database" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_CreationalPatterns.Database" />
-      <module name="lesson4" />
+    <configuration name="DynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_DynamicProxy.DynamicProxy" />
+      <module name="lesson5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpirationCheckerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18_DependencyInjectionExercise.ExpirationCheckerTest" />
-      <module name="lesson4" />
+    <configuration name="ReflectionAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06_ReflecrtionAPI.ReflectionAPI" />
+      <module name="lesson5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18_DependencyInjectionExercise.Main" />
-      <module name="lesson4" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_BuilderExercise.Main" />
-      <module name="lesson4" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_ReflectionAPIExercise.TestRunner" />
+      <module name="lesson5" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,14 +89,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DynamicProxy" />
+      <item itemvalue="Application.ReflectionAPI" />
+      <item itemvalue="Application.TestRunner" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExpirationCheckerTest" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Database" />
+        <item itemvalue="Application.TestRunner" />
+        <item itemvalue="Application.DynamicProxy" />
+        <item itemvalue="Application.ReflectionAPI" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="method.getAnnotation(Test.class)" language="JAVA" />
+        <watch expression="calculator.calculate(45, &quot;-&quot;, 43) == 1" language="JAVA" />
+        <watch expression="assert 2 == 1" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
 </project>
