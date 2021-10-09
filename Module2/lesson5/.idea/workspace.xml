@@ -47,10 +47,18 @@
       <recent name="$PROJECT_DIR$/src/_08_ReflectionAPIExercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestRunner">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_1_StaticProxy.Client" />
+      <module name="lesson5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_10_DynamicProxy.DynamicProxy" />
@@ -93,9 +101,11 @@
       <item itemvalue="Application.DynamicProxy" />
       <item itemvalue="Application.ReflectionAPI" />
       <item itemvalue="Application.TestRunner" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.TestRunner" />
         <item itemvalue="Application.DynamicProxy" />
         <item itemvalue="Application.ReflectionAPI" />
