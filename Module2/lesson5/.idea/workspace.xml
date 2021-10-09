@@ -44,11 +44,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_15_ClassLoaderExercise" />
+      <recent name="$PROJECT_DIR$/src/_11_DynamicProxyExercse" />
       <recent name="$PROJECT_DIR$/src/_05_DefineCustomAnnotation" />
       <recent name="$PROJECT_DIR$/src/_08_ReflectionAPIExercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.TestRunner (1)">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -69,17 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_DynamicProxy.DynamicProxy" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_DynamicProxyExercse.Main" />
       <module name="lesson5" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_ReflecrtionAPI.ReflectionAPI" />
+    <configuration name="TestRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_ClassLoaderExercise.TestRunner" />
       <module name="lesson5" />
+      <option name="PROGRAM_PARAMETERS" value="/tests CalculatorTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,19 +110,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DynamicProxy" />
-      <item itemvalue="Application.ReflectionAPI" />
       <item itemvalue="Application.TestRunner" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TestRunner (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRunner (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.TestRunner" />
-        <item itemvalue="Application.DynamicProxy" />
-        <item itemvalue="Application.ReflectionAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +135,10 @@
           <line>7</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
