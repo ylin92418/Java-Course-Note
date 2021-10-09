@@ -40,7 +40,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_11_ParellelStreamsExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SummarizeClients">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -49,6 +54,30 @@
       <option name="MAIN_CLASS_NAME" value="_04_ThreadsExercise.IntPrinter" />
       <module name="lesson6" />
       <option name="PROGRAM_PARAMETERS" value="20" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_ParallelStreams.ParallelStreams" />
+      <module name="lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummarizeClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_ParellelStreamsExercise.SummarizeClients" />
+      <module name="lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_ThreadPools.ThreadPools" />
+      <module name="lesson6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SummarizeClients" />
+        <item itemvalue="Application.ParallelStreams" />
+        <item itemvalue="Application.ThreadPools" />
         <item itemvalue="Application.IntPrinter" />
       </list>
     </recent_temporary>
