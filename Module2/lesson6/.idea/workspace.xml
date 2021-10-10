@@ -44,39 +44,49 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/_11_ParellelStreamsExercise" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_13_Synchronization" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SummarizeClients">
+  <component name="RunManager" selected="Application.CollectionsSynchronizedMap">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="IntPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_ThreadsExercise.IntPrinter" />
-      <module name="lesson6" />
-      <option name="PROGRAM_PARAMETERS" value="20" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParallelStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_10_ParallelStreams.ParallelStreams" />
+    <configuration name="CollectionsSynchronizedMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.CollectionsSynchronizedMap" />
       <module name="lesson6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummarizeClients" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_11_ParellelStreamsExercise.SummarizeClients" />
+    <configuration name="ConcurrentMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.ConcurrentMap" />
       <module name="lesson6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_ThreadPools.ThreadPools" />
+    <configuration name="ConcurrentMapSolved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.ConcurrentMapSolved" />
+      <module name="lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.SingleThread" />
+      <module name="lesson6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithoutSynchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.WithoutSynchronized" />
       <module name="lesson6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -98,10 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SummarizeClients" />
-        <item itemvalue="Application.ParallelStreams" />
-        <item itemvalue="Application.ThreadPools" />
-        <item itemvalue="Application.IntPrinter" />
+        <item itemvalue="Application.CollectionsSynchronizedMap" />
+        <item itemvalue="Application.ConcurrentMapSolved" />
+        <item itemvalue="Application.ConcurrentMap" />
+        <item itemvalue="Application.WithoutSynchronized" />
+        <item itemvalue="Application.SingleThread" />
       </list>
     </recent_temporary>
   </component>
