@@ -42,13 +42,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/_18_SynchronizationExercise" />
       <recent name="$PROJECT_DIR$/src/_11_ParellelStreamsExercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_18_SynchronizationExercise" />
       <recent name="_13_Synchronization" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsSynchronizedMap">
+  <component name="RunManager" selected="Application.TestRunner">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -77,9 +79,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_13_Synchronization.SingleThread" />
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_18_SynchronizationExercise.TestRunner" />
       <module name="lesson6" />
+      <option name="PROGRAM_PARAMETERS" value="tests/ CalculatorTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRunner" />
         <item itemvalue="Application.CollectionsSynchronizedMap" />
         <item itemvalue="Application.ConcurrentMapSolved" />
         <item itemvalue="Application.ConcurrentMap" />
         <item itemvalue="Application.WithoutSynchronized" />
-        <item itemvalue="Application.SingleThread" />
       </list>
     </recent_temporary>
   </component>
