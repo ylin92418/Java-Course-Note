@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.udacity","l":"App"},{"p":"com.udacity.gcd","l":"GreatestCommonDivisorCalculator"}];updateSearchResults();

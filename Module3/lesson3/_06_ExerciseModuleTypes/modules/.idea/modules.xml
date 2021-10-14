@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.udacity.flight/com.udacity.flight.iml" filepath="$PROJECT_DIR$/com.udacity.flight/com.udacity.flight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.udacity.hotel/com.udacity.hotel.iml" filepath="$PROJECT_DIR$/com.udacity.hotel/com.udacity.hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.udacity.packagesearch/com.udacity.packagesearch.iml" filepath="$PROJECT_DIR$/com.udacity.packagesearch/com.udacity.packagesearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules.iml" filepath="$PROJECT_DIR$/.idea/modules.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<project>
+  <modelVersion> 4.0.0 </modelVersion>
+
+  <groupId> com.udacity.jpnd </groupId>
+  <artifactId> maven-test </artifactId>
+  <version> 1.0.0 </version>
+</project>

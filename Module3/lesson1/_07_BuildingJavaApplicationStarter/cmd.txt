@@ -1,0 +1,2 @@
+jar -cfe UserValidatorExample.jar UserValidatorExample *.class
+java -jar UserValidatorExample.jar
